@@ -16,3 +16,6 @@ How to run the project:
  - Press `j` to use de debug tool and watch for the logs;
 
  **OBS: It's not possible to run on the web version because WebView is not supported**
+
+ It was not possible to set the cookies structure because I used expo to create the project and unfortunately, expo project does not support Cookies Manager from the react-cookies. I discovered this information too late.
+ source -> https://github.com/expo/expo/issues/6756 
