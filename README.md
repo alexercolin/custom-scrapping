@@ -6,7 +6,7 @@ Requirements:
 - [x] Create log structure
 - [ ] Cookies Structure
 - [X] Service Structure
-- [X] Tests
+- [ ] Tests
 - [x] README
 
 How to run the project:
